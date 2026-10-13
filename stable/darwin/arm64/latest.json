@@ -1,10 +1,10 @@
 {
-  "url": "https://github.com/xgirl2510-ops/darkfactory-releases/releases/download/v1.135.00006/DarkFactory-darwin-arm64-1.135.00006.zip",
-  "name": "1.135.00006",
-  "version": "7770c3a14d881dd5b362856a39fa5ef55215356f",
-  "productVersion": "1.135.00006",
-  "hash": "48015f8c2f3270b50e18ef2424edd4eec9a550d8",
-  "sha256hash": "e71602236622e019990e75cd71a3c03e79feffc565cec7fe9c42e1d66f96b4ed",
-  "timestamp": 1791785238235,
+  "url": "https://github.com/xgirl2510-ops/darkfactory-releases/releases/download/v1.135.00007/DarkFactory-darwin-arm64-1.135.00007.zip",
+  "name": "1.135.00007",
+  "version": "8017910a2f55b8cad3f09b730454efb7b20a77af",
+  "productVersion": "1.135.00007",
+  "hash": "086a3ecfc56839958774611cd839aa0776970c0f",
+  "sha256hash": "75b830765dcfe39471007f974ab490572761ce2cadcdff5d40d937465fddad40",
+  "timestamp": 1791863281011,
   "minProductVersion": "1.135.00005"
 }
